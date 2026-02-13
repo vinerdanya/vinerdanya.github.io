@@ -1,0 +1,5 @@
+title: AISD Notes
+theme: minima
+markdown: kramdown
+kramdown:
+  math_engine: mathjax
